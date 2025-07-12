@@ -15,9 +15,9 @@ This project is an end-to-end machine learning project, predicting used car pric
 
 ## Repository Structure
 The repository includes:
-- `used_car_regression.ipynb` – end-to-end pipeline with EDA, feature engineering, and modeling  
-- `used_car_pipeline.py` – script version of the modeling pipeline  
-- `CIS5450_Final_Presentation.pdf` – summary slides of project process and results  
+- `Used_Car_Price_Prediction_ML.ipynb` – end-to-end pipeline with EDA, feature engineering, and modeling  
+- `Used_Car_Price_Prediction_ML.py` – script version of the modeling pipeline  
+- `Final_Presentation.pdf` – summary slides of project process and results  
 
 ## Dependencies
 Install required packages:
