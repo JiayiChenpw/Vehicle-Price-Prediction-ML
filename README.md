@@ -1,7 +1,7 @@
 # Used Car Price Regression
 
 ## About the Project
-This project predicts used car prices using various vehicle attributes such as brand, mileage, accident history, engine size, and more. We use a cleaned version of the Kaggle Playground Series S4E9 dataset (188,000+ entries) to explore price-related insights and apply multiple regression models for prediction.
+This project is an end-to-end machine learning project, predicting used car prices using various vehicle attributes such as brand, mileage, accident history, engine size, and more. We use a cleaned version of the Kaggle Playground Series S4E9 dataset (188,000+ entries) to explore price-related insights and apply multiple regression models for prediction.
 
 ## Key Features & Data Pipeline
 - Performed **extensive feature engineering** on car specs using regular expressions and type mappings
